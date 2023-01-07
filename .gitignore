@@ -1,0 +1,3 @@
+#ignore files on github
+node_modules
+nodemon.json
